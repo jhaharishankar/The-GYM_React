@@ -8,7 +8,7 @@ const HeroSection = () => {
             style={{ minHeight: '95vh' }}>
             <div
                 className="absolute top-0 w-full h-full bg-top bg-cover"
-                style={{ backgroundImage: "url('/src/assets/img/photo-1526506118085-60ce8714f8c5.avif')" }}>
+                style={{ backgroundImage: "url('/img/photo-1526506118085-60ce8714f8c5.avif')" }}>
                 <span
                     id="blackOverlay"
                     className="w-full h-full absolute opacity-75 bg-black"></span>
@@ -61,7 +61,7 @@ const HeroSection = () => {
             <img
               alt="Gym"
               className="max-w-full rounded-lg shadow-lg"
-              src="/src/assets/img/photo-1550345332-09e3ac987658.avif"
+              src="/img/photo-1550345332-09e3ac987658.avif"
             />
           </div>
 

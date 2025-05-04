@@ -5,17 +5,17 @@ const Trainers = () => {
     {
       name: 'Mr Rogers',
       title: 'Neighborhood Watchman',
-      image: '/src/assets/img/photo-1597347343908-2937e7dcc560.avif',
+      image: '/img/photo-1597347343908-2937e7dcc560.avif',
     },
     {
       name: 'Strawberry Shortcake',
       title: 'Cupcake Smasher',
-      image: '/src/assets/img/photo-1594381898411-846e7d193883.avif',
+      image: '/img/photo-1594381898411-846e7d193883.avif',
     },
     {
       name: 'Ronald McDonald',
       title: 'Double Whoopass With Cheese',
-      image: '/src/assets/img/photo-1567013127542-490d757e51fc.avif',
+      image: '/img/photo-1567013127542-490d757e51fc.avif',
     },
   ];
 
